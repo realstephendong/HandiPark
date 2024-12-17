@@ -43,4 +43,4 @@ For any questions, suggestions, or feedback, feel free to reach out:
 
 Email: realstephendong@gmail.com
 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/stephen-dong/)
-Let's make parking inclusive and accessible for all with HandiPark!
+- Let's make parking inclusive and accessible for all with HandiPark!
